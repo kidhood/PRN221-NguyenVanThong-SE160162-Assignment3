@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWatch", "DigitalWatch\DigitalWatch.csproj", "{23A4DFE4-BB15-4672-90E0-3E90866EBFBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWatchService", "DigitalWatchService\DigitalWatchService.csproj", "{4BC0586A-6969-4827-95A1-A580DCD34D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWatchRepository", "DigitalWatchRepository\DigitalWatchRepository.csproj", "{25BCAF16-C968-4BCE-A201-03136A85F49D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWatchDAO", "DigitalWatchDAO\DigitalWatchDAO.csproj", "{C450870B-1921-4632-B089-FEAC92DB6A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWatchBO", "DigitalWatchBO\DigitalWatchBO.csproj", "{1E601E7B-C115-4AAE-88B6-71E88C45DD63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A4DFE4-BB15-4672-90E0-3E90866EBFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A4DFE4-BB15-4672-90E0-3E90866EBFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A4DFE4-BB15-4672-90E0-3E90866EBFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A4DFE4-BB15-4672-90E0-3E90866EBFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC0586A-6969-4827-95A1-A580DCD34D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC0586A-6969-4827-95A1-A580DCD34D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC0586A-6969-4827-95A1-A580DCD34D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC0586A-6969-4827-95A1-A580DCD34D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25BCAF16-C968-4BCE-A201-03136A85F49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25BCAF16-C968-4BCE-A201-03136A85F49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25BCAF16-C968-4BCE-A201-03136A85F49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25BCAF16-C968-4BCE-A201-03136A85F49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C450870B-1921-4632-B089-FEAC92DB6A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C450870B-1921-4632-B089-FEAC92DB6A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C450870B-1921-4632-B089-FEAC92DB6A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C450870B-1921-4632-B089-FEAC92DB6A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E601E7B-C115-4AAE-88B6-71E88C45DD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E601E7B-C115-4AAE-88B6-71E88C45DD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E601E7B-C115-4AAE-88B6-71E88C45DD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E601E7B-C115-4AAE-88B6-71E88C45DD63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81B21134-B659-41F9-8C9A-800EFC1AB545}
+	EndGlobalSection
+EndGlobal
